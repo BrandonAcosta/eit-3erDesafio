@@ -1,0 +1,46 @@
+*{ 
+    color: #775548;
+    font-family: Verdana, Arial, sans-serif;
+    font-size:small;
+   
+}
+body{
+    background-color: #edece9;
+}
+header{
+    width:100vw;
+}
+h2{
+    color: #775548;
+}
+h3{
+    background-color: #775548;
+    color: #edece9;
+}
+a:link{
+    color: #ef6d24;
+    font-weight: bold;
+}
+a:visited{
+    color: #ef6d24;
+}
+nav ul{
+    color: #775548;
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    padding: 0;
+}
+.li-item{
+    margin: 0 12px;
+    text-decoration: underline;
+}
+#foot-title{
+    color: #d8b03b;
+}
+#la-nacion{
+    color: #3aabc4;
+}
+#pagina-12{
+    color: #ef4b51;
+}
